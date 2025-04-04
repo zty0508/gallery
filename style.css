@@ -64,7 +64,7 @@ footer p{
     text-align:center;
 }
 @media screen and (max-width: 768px){
-    main h2{
+    .topic h2{
         font-size:40px;
     }
 }
