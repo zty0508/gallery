@@ -13,10 +13,5 @@ body{
   font-size:20px;
   line-height: 1.8;
 }
-@media screen and (max-width: 768px) {
-  #description,body a {
-      flex-direction: column; /* 螢幕小時圖片和文字垂直排列 */
-      align-items: flex-start; /* 左對齊 */
-  }
-}
+
 
