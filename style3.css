@@ -15,7 +15,8 @@ body{
 }
 @media screen and (max-width: 768px){
   #description,body a{
-      margin:20px;
+    margin-left:70px;
+    margin-right:70px;
   }
 }
 
