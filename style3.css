@@ -19,7 +19,7 @@ body{
       height:auto;
   }
   #description,body a{
-    margin:0;
+    margin:10px;
     width:100%;
     font-size:15px;
 
