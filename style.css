@@ -63,3 +63,8 @@ footer p{
     opacity:0.5;
     text-align:center;
 }
+@media screen and (max-width: 768px){
+    .topic{
+        font-size:40px;
+    }
+}
