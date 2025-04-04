@@ -14,7 +14,7 @@ body{
   line-height: 1.8;
 }
 @media screen and (max-width: 768px) {
-  .container {
+  #description,body a {
       flex-direction: column; /* 螢幕小時圖片和文字垂直排列 */
       align-items: flex-start; /* 左對齊 */
   }
