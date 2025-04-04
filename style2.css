@@ -1,0 +1,55 @@
+*{
+    padding:0;
+    margin:0;
+}
+header{
+    background-color:#f2e0c6
+}
+header a{
+    text-decoration:none;
+}
+header a:hover { 
+    text-decoration: underline;
+}
+header li{
+    display:inline;
+    margin-right:4vw;
+}
+header ul{
+    position:absolute;
+    right:1vw;
+    top:0;
+    line-height:80px;
+}
+h1 {
+    background-image:url(img./IMG_1619.png);
+    background-size:80px 90px;
+    background-position:3% 100%;
+    background-repeat:no-repeat;
+    text-indent:-9999px;
+    height:80px;
+    }
+
+    .gallery {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
+        gap: 20px; /* 作品之間的間距 */
+        margin:20px;
+    }
+    
+    .item img {
+        width: 100%;
+        border-radius: 10px;
+    }
+    .verticalitem img {
+        width: 80%;
+        border-radius: 10px;
+    }
+    .gallery a{
+        text-decoration:none;
+    }
+    
+.gallery a:hover{
+    text-decoration: underline;
+}
+
