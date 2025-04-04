@@ -16,9 +16,12 @@ body{
 @media screen and (max-width: 768px) {
   #image{
       width:100%;
+      height:auto;
   }
   #description,body a{
+    margin:0;
     width:100%;
+
   }
 }
 
