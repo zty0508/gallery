@@ -13,5 +13,9 @@ body{
   font-size:20px;
   line-height: 1.8;
 }
-
+@media screen and (max-width: 768px){
+  #description,body a{
+      margin:20px;
+  }
+}
 
