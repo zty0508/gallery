@@ -66,6 +66,5 @@ footer p{
 @media screen and (max-width: 768px){
     .topic h2{
         font-size:40px;
-        color: red;
     }
 }
