@@ -32,7 +32,7 @@ height:80px;
 
 main{ 
     height:85vh;
-    background-image:url(img/IMG_8306.jpg);
+    background-image:url(img/116223.jpg);
     background-repeat:no-repeat;
     background-size:cover;
     background-position:center;
@@ -45,15 +45,18 @@ main{
 
 
 .topic h2 {
-    font-size:60px;
+    color:white;
+    font-size:80px;
     margin-top:20px;
+    font-weight: bold;
 } 
 
 .topic p {
-    color:black;
-    font-size:20px;
+    color:white;
+    font-size:40px;
     margin:25px 0;
     text-align:center;
+    font-weight: bold;
 }
 footer{
     background-color:#f2e0c6;
